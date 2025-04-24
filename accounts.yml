@@ -1,0 +1,14 @@
+
+build:
+  Version: "3.0"
+
+accounts:
+  message: "Welcome To INDIAN BANK accounts related Local Apis"
+  contactDetails:
+    name: "Sohail Shaikh"
+    email: "so6966@gmail.com"
+  onCallSupport:
+    -917030200833
+    -919561636594
+
+

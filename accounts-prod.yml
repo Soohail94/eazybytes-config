@@ -1,0 +1,13 @@
+
+build:
+  Version: "1.0"
+
+accounts:
+  message: "Welcome To INDIAN BANK accounts related Prod Apis"
+  contactDetails:
+    name: "Sohail Shaikh-Product Owner"
+    email: "so6966@indianBank.com"
+  onCallSupport:
+    -917030200833
+    -919591936451
+

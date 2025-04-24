@@ -1,0 +1,14 @@
+
+
+build:
+  Version: "2.0"
+
+accounts:
+  message: "Welcome To INDIAN BANK accounts related QA Apis"
+  contactDetails:
+    name: "Tester_ss-QA Lead"
+    email: "so6966@indianBank.com"
+  onCallSupport:
+    -91725012833
+    -91945824659
+
